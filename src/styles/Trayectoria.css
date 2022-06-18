@@ -1,0 +1,37 @@
+.TrayectoriaBox{
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-content: center;
+}
+
+.boton{
+    background-color: #360018;
+    color: #fff;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 10px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+.BotonesBox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+img{
+    width: 50%;
+    align-self: center;
+}
+input{
+    width: 250px;
+    margin: 10px;
+}
+
+.FormGroup{
+    margin-right: 25px;
+}

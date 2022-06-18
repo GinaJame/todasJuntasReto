@@ -1,0 +1,21 @@
+.boton{
+    background-color: #360018;
+    color: #fff;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 10px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    cursor: pointer;
+    width: 250px;
+    height: 50px;
+}
+
+.Login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+}

@@ -1,0 +1,18 @@
+.RegistroBox{
+    max-width: 100%;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    background-color: #B61962;
+    color: #e9dfe3;
+    padding: 20px;
+    margin: 0;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    font-size: large;
+    color: #e9dfe3;
+}
